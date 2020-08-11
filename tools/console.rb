@@ -8,6 +8,7 @@ red_foyer = Gallery.new("The Red Foyer", "Seattle")
 
 starry_night = Painting.new("Starry Night", 1000, van_gogh, velvet_room)
 pear = Painting.new("Pear", 3400, picasso, red_foyer)
+ish = Painting.new("Ish", 50000, picasso, red_foyer)
 
 
 
